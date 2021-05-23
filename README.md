@@ -1,5 +1,9 @@
-# maskmandate
+# Mask Mandate Adoption and Its Relationship with Socioeconomic Variables
 
+
+
+
+## Papers 
 https://www.medrxiv.org/content/10.1101/2021.01.19.21250132v3.full-text
 Mask Mandate and Mask Adherence
 Find two citie with low level of mask adherence 
