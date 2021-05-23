@@ -1,4 +1,4 @@
-# Mask Mandate Adoption and Its Relationship with Socioeconomic Variables
+# Mask Mandate Adoption in Relation with Socioeconomic Variables
 
 
 
