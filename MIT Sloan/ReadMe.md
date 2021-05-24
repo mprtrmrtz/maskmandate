@@ -1,5 +1,6 @@
-## MIT Sloan 
+# MIT Sloan Paper 
 
-# Slaon 
+##  Interdependence and the cost of uncoordinated responses to COVID-19
 
-dif a 
+Social distancing is the core policy response to coronavirus disease 2019 (COVID-19). But, as federal, state and local governments begin opening businesses and relaxing shelter-in-place orders worldwide, we lack quantitative evidence on how policies in one region affect mobility and social distancing in other regions and the consequences of uncoordinated regional policies adopted in the presence of such spillovers. To investigate this concern, we combined daily, county-level data on shelter-in-place policies with movement data from over 27 million mobile devices, social network connections among over 220 million Facebook users, daily temperature and precipitation data from 62,000 weather stations, and county-level census data on population demographics to estimate the geographic and social network spillovers created by regional policies across the United States. Our analysis shows that the contact patterns of people in a given region are significantly influenced by the policies and behaviors of people in other, sometimes distant, regions. When just one-third of a state’s social and geographic peer states adopt shelter-in-place policies, it creates a reduction in mobility equal to the state’s own policy decisions. These spillovers are mediated by peer travel and distancing behaviors in those states. A simple analytical model calibrated with our empirical estimates demonstrated that the “loss from anarchy” in uncoordinated state policies is increasing in the number of noncooperating states and the size of social and geographic spillovers. These results suggest a substantial cost of uncoordinated government responses to COVID-19 when people, ideas, and media move across borders.
+
