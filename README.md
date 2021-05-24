@@ -21,6 +21,7 @@ https://github.com/nytimes/covid-19-data/tree/master/mask-use
 
 ## Paper coded by Sloan researchers:
 https://www.pnas.org/content/pnas/117/33/19837.full.pdf
+
 https://github.com/mfzhao/covid_interdependence
 
 
