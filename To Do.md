@@ -15,3 +15,12 @@
 
 ## Visualization:
 1. Create a Tableau Dashboard based on the Geo data for various variables 
+
+
+## Presentation:
+1. Make things ready for Friday May 28, 2021 meeting 
+
+
+
+
+
