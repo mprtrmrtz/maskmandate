@@ -22,7 +22,7 @@ https://gis.stackexchange.com/questions/355218/accessing-arcgis-online-feature-d
 
 
 ## Presentation:
-1. Make things ready for Friday May 28, 2021 meeting 
+
 
 
 
