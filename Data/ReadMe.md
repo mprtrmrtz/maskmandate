@@ -27,5 +27,29 @@ US Census Data is publicly available here:
 
 https://www2.census.gov/programs-surveys/popest/datasets/2010-2018/counties/asrh/
 
+
+## Population Density 
+
+https://covid19.census.gov/datasets/USCensus::average-household-size-and-population-density-county/about
+
+## COVID Data
+
+https://theuscovidatlas.org/data
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Inquiries
 Please direct inquires and correspondence to Sinan Aral (sinan [at] mit [dot] edu) or Dean Eckles (eckles [at] mit [dot] edu)
