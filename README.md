@@ -25,6 +25,12 @@ https://www.pnas.org/content/pnas/117/33/19837.full.pdf
 https://github.com/mfzhao/covid_interdependence
 
 
+## COVID Economics papers 
+
+https://iris.unibocconi.it/retrieve/handle/11565/4026151/122470/CovidEconomics4.pdf#page=107
+
+
+
 ## Papers 
 Association between COVID-19 Outcomes and Mask Mandates, Adherence, and Attitudes
 https://www.medrxiv.org/content/10.1101/2021.01.19.21250132v3.full-text
