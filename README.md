@@ -29,7 +29,9 @@ https://github.com/mfzhao/covid_interdependence
 
 https://iris.unibocconi.it/retrieve/handle/11565/4026151/122470/CovidEconomics4.pdf#page=107
 
-
+## Walking Behaviour
+Effect of COVID-19 response policies on walking behavior in US cities
+https://www.nature.com/articles/s41467-021-23937-9
 
 ## Papers 
 Association between COVID-19 Outcomes and Mask Mandates, Adherence, and Attitudes
