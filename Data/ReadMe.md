@@ -1,6 +1,14 @@
 # Raw Data
 
 
+## Mask Adoption Data
+Mask Adoption Data: 
+https://github.com/nytimes/covid-19-data/tree/master/mask-use
+
+
+
+
+
 ## Safegraph Data
 SafeGraph data access can be requested here:
 
