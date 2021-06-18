@@ -1,0 +1,339 @@
+<?xml version="1.0"?>
+<AlteryxDocument yxmdVer="2021.1">
+  <Nodes>
+    <Node ToolID="2">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+        <Position x="78" y="150" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Passwords />
+          <File RecordLimit="" SearchSubDirs="False" FileFormat="0" OutputFileName="">C:\Users\momaleki\Desktop\Project\Union.csv</File>
+          <FormatSpecificOptions>
+            <HeaderRow>True</HeaderRow>
+            <IgnoreErrors>False</IgnoreErrors>
+            <AllowShareWrite>False</AllowShareWrite>
+            <ImportLine>1</ImportLine>
+            <FieldLen>254</FieldLen>
+            <SingleThreadRead>False</SingleThreadRead>
+            <IgnoreQuotes>DoubleQuotes</IgnoreQuotes>
+            <Delimeter>,</Delimeter>
+            <QuoteRecordBreak>False</QuoteRecordBreak>
+            <CodePage>28591</CodePage>
+          </FormatSpecificOptions>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>Union.csv</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="Field_1" size="254" source="File: C:\Users\momaleki\Desktop\Project\Union.csv" type="V_String" />
+            <Field name="NEVER" size="254" source="File: C:\Users\momaleki\Desktop\Project\Union.csv" type="V_String" />
+            <Field name="RARELY" size="254" source="File: C:\Users\momaleki\Desktop\Project\Union.csv" type="V_String" />
+            <Field name="SOMETIMES" size="254" source="File: C:\Users\momaleki\Desktop\Project\Union.csv" type="V_String" />
+            <Field name="FREQUENTLY" size="254" source="File: C:\Users\momaleki\Desktop\Project\Union.csv" type="V_String" />
+            <Field name="ALWAYS" size="254" source="File: C:\Users\momaleki\Desktop\Project\Union.csv" type="V_String" />
+            <Field name="FIPS" size="254" source="File: C:\Users\momaleki\Desktop\Project\Union.csv" type="V_String" />
+            <Field name="scaled_sci" size="254" source="File: C:\Users\momaleki\Desktop\Project\Union.csv" type="V_String" />
+            <Field name="FIPS2" size="254" source="File: C:\Users\momaleki\Desktop\Project\Union.csv" type="V_String" />
+            <Field name="second_FIPS" size="254" source="File: C:\Users\momaleki\Desktop\Project\Union.csv" type="V_String" />
+            <Field name="county_name" size="254" source="File: C:\Users\momaleki\Desktop\Project\Union.csv" type="V_String" />
+            <Field name="state_abbr" size="254" source="File: C:\Users\momaleki\Desktop\Project\Union.csv" type="V_String" />
+            <Field name="state_name" size="254" source="File: C:\Users\momaleki\Desktop\Project\Union.csv" type="V_String" />
+            <Field name="FIPS3" size="254" source="File: C:\Users\momaleki\Desktop\Project\Union.csv" type="V_String" />
+            <Field name="Less than a high school diploma, 2015-19" size="254" source="File: C:\Users\momaleki\Desktop\Project\Union.csv" type="V_String" />
+            <Field name="High school diploma only, 2015-19" size="254" source="File: C:\Users\momaleki\Desktop\Project\Union.csv" type="V_String" />
+            <Field name="Some college or associate's degree, 2015-19" size="254" source="File: C:\Users\momaleki\Desktop\Project\Union.csv" type="V_String" />
+            <Field name="Bachelor's degree or higher, 2015-19" size="254" source="File: C:\Users\momaleki\Desktop\Project\Union.csv" type="V_String" />
+            <Field name="Percent of adults with less than a high school diploma, 2015-19" size="254" source="File: C:\Users\momaleki\Desktop\Project\Union.csv" type="V_String" />
+            <Field name="Percent of adults with a high school diploma only, 2015-19" size="254" source="File: C:\Users\momaleki\Desktop\Project\Union.csv" type="V_String" />
+            <Field name="Percent of adults completing some college or associate's degree, 2015-19" size="254" source="File: C:\Users\momaleki\Desktop\Project\Union.csv" type="V_String" />
+            <Field name="Percent of adults with a bachelor's degree or higher, 2015-19" size="254" source="File: C:\Users\momaleki\Desktop\Project\Union.csv" type="V_String" />
+            <Field name="FIPS4" size="254" source="File: C:\Users\momaleki\Desktop\Project\Union.csv" type="V_String" />
+            <Field name="race" size="254" source="File: C:\Users\momaleki\Desktop\Project\Union.csv" type="V_String" />
+            <Field name="fname" size="254" source="File: C:\Users\momaleki\Desktop\Project\Union.csv" type="V_String" />
+            <Field name="lname" size="254" source="File: C:\Users\momaleki\Desktop\Project\Union.csv" type="V_String" />
+            <Field name="party" size="254" source="File: C:\Users\momaleki\Desktop\Project\Union.csv" type="V_String" />
+            <Field name="pab" size="254" source="File: C:\Users\momaleki\Desktop\Project\Union.csv" type="V_String" />
+            <Field name="votes" size="254" source="File: C:\Users\momaleki\Desktop\Project\Union.csv" type="V_String" />
+            <Field name="incumbent" size="254" source="File: C:\Users\momaleki\Desktop\Project\Union.csv" type="V_String" />
+            <Field name="mpc" size="254" source="File: C:\Users\momaleki\Desktop\Project\Union.csv" type="V_String" />
+            <Field name="FIPS5" size="254" source="File: C:\Users\momaleki\Desktop\Project\Union.csv" type="V_String" />
+            <Field name="FIPS6" size="254" source="File: C:\Users\momaleki\Desktop\Project\Union.csv" type="V_String" />
+            <Field name="LAT" size="254" source="File: C:\Users\momaleki\Desktop\Project\Union.csv" type="V_String" />
+            <Field name="LON" size="254" source="File: C:\Users\momaleki\Desktop\Project\Union.csv" type="V_String" />
+            <Field name="Stabr" size="254" source="File: C:\Users\momaleki\Desktop\Project\Union.csv" type="V_String" />
+            <Field name="area_name" size="254" source="File: C:\Users\momaleki\Desktop\Project\Union.csv" type="V_String" />
+            <Field name="Attribute" size="254" source="File: C:\Users\momaleki\Desktop\Project\Union.csv" type="V_String" />
+            <Field name="Value" size="254" source="File: C:\Users\momaleki\Desktop\Project\Union.csv" type="V_String" />
+            <Field name="FIPS7" size="254" source="File: C:\Users\momaleki\Desktop\Project\Union.csv" type="V_String" />
+            <Field name="date" size="254" source="File: C:\Users\momaleki\Desktop\Project\Union.csv" type="V_String" />
+            <Field name="country_code" size="254" source="File: C:\Users\momaleki\Desktop\Project\Union.csv" type="V_String" />
+            <Field name="FIPS8" size="254" source="File: C:\Users\momaleki\Desktop\Project\Union.csv" type="V_String" />
+            <Field name="change_in_movement" size="254" source="File: C:\Users\momaleki\Desktop\Project\Union.csv" type="V_String" />
+            <Field name="proportion_intouch_users" size="254" source="File: C:\Users\momaleki\Desktop\Project\Union.csv" type="V_String" />
+            <Field name="baseline_calc_time" size="254" source="File: C:\Users\momaleki\Desktop\Project\Union.csv" type="V_String" />
+            <Field name="baseline_calc_how" size="254" source="File: C:\Users\momaleki\Desktop\Project\Union.csv" type="V_String" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+    </Node>
+    <Node ToolID="3">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
+        <Position x="162" y="54" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <TempFile>C:\Users\momaleki\AppData\Local\Temp\Engine_12068_0b6bb43530814fdea2e782ab03de64a1_\Engine_14764_127affa545f54649b18934f0dea3d4f7_.yxdb</TempFile>
+          <Layout>
+            <View1>
+              <Hints>
+                <Table />
+              </Hints>
+            </View1>
+          </Layout>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxBrowseV2" />
+    </Node>
+    <Node ToolID="4">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+        <Position x="258" y="150" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <OrderChanged value="False" />
+          <CommaDecimal value="False" />
+          <SelectFields>
+            <SelectField field="NEVER" selected="True" type="Double" size="8" />
+            <SelectField field="RARELY" selected="True" type="Double" size="8" />
+            <SelectField field="SOMETIMES" selected="True" type="Double" size="8" />
+            <SelectField field="FREQUENTLY" selected="True" type="Double" size="8" />
+            <SelectField field="ALWAYS" selected="True" type="Double" size="8" />
+            <SelectField field="scaled_sci" selected="True" type="Double" size="8" />
+            <SelectField field="Less than a high school diploma, 2015-19" selected="True" type="Double" size="8" />
+            <SelectField field="High school diploma only, 2015-19" selected="True" type="Double" size="8" />
+            <SelectField field="Some college or associate's degree, 2015-19" selected="True" type="Double" size="8" />
+            <SelectField field="Bachelor's degree or higher, 2015-19" selected="True" type="Double" size="8" />
+            <SelectField field="Percent of adults with less than a high school diploma, 2015-19" selected="True" type="Double" size="8" />
+            <SelectField field="Percent of adults with a high school diploma only, 2015-19" selected="True" type="Double" size="8" />
+            <SelectField field="Percent of adults completing some college or associate's degree, 2015-19" selected="True" type="Double" size="8" />
+            <SelectField field="Percent of adults with a bachelor's degree or higher, 2015-19" selected="True" type="Double" size="8" />
+            <SelectField field="LAT" selected="True" type="Double" size="8" />
+            <SelectField field="LON" selected="True" type="Double" size="8" />
+            <SelectField field="change_in_movement" selected="True" type="Double" size="8" />
+            <SelectField field="proportion_intouch_users" selected="True" type="Double" size="8" />
+            <SelectField field="*Unknown" selected="True" />
+          </SelectFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+    </Node>
+    <Node ToolID="5">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
+        <Position x="378" y="42" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <TempFile>C:\Users\momaleki\AppData\Local\Temp\Engine_12068_0b6bb43530814fdea2e782ab03de64a1_\Engine_14764_2f73f2b08f6843cba861cbecb7d56509_.yxdb</TempFile>
+          <TempFileDataProfiling />
+          <Layout>
+            <ViewMode>Single</ViewMode>
+            <ViewSize value="100" />
+            <View1>
+              <DefaultTab>Profile</DefaultTab>
+              <Hints>
+                <Table />
+              </Hints>
+            </View1>
+            <View2 />
+          </Layout>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxBrowseV2" />
+    </Node>
+    <Node ToolID="6">
+      <GuiSettings Plugin="AlteryxRPluginGui.R">
+        <Position x="582" y="186" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <RScript><![CDATA[df <- read.Alteryx("#1", mode="data.frame")
+
+
+head(df)
+
+write.Alteryx(df, 1)
+]]></RScript>
+          <UseFullUpdate value="True" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output1">
+          <RecordInfo>
+            <Field name="Field_1" size="1073741823" source="R-DATA:" type="V_WString" />
+            <Field name="NEVER" source="R-DATA:" type="Double" />
+            <Field name="RARELY" source="R-DATA:" type="Double" />
+            <Field name="SOMETIMES" source="R-DATA:" type="Double" />
+            <Field name="FREQUENTLY" source="R-DATA:" type="Double" />
+            <Field name="ALWAYS" source="R-DATA:" type="Double" />
+            <Field name="FIPS" size="1073741823" source="R-DATA:" type="V_WString" />
+            <Field name="scaled_sci" source="R-DATA:" type="Double" />
+            <Field name="FIPS2" size="1073741823" source="R-DATA:" type="V_WString" />
+            <Field name="second_FIPS" size="1073741823" source="R-DATA:" type="V_WString" />
+            <Field name="county_name" size="1073741823" source="R-DATA:" type="V_WString" />
+            <Field name="state_abbr" size="1073741823" source="R-DATA:" type="V_WString" />
+            <Field name="state_name" size="1073741823" source="R-DATA:" type="V_WString" />
+            <Field name="FIPS3" size="1073741823" source="R-DATA:" type="V_WString" />
+            <Field name="Less.than.a.high.school.diploma..2015.19" source="R-DATA:" type="Double" />
+            <Field name="High.school.diploma.only..2015.19" source="R-DATA:" type="Double" />
+            <Field name="Some.college.or.associate.s.degree..2015.19" source="R-DATA:" type="Double" />
+            <Field name="Bachelor.s.degree.or.higher..2015.19" source="R-DATA:" type="Double" />
+            <Field name="Percent.of.adults.with.less.than.a.high.school.diploma..2015.19" source="R-DATA:" type="Double" />
+            <Field name="Percent.of.adults.with.a.high.school.diploma.only..2015.19" source="R-DATA:" type="Double" />
+            <Field name="Percent.of.adults.completing.some.college.or.associate.s.degree..2015.19" source="R-DATA:" type="Double" />
+            <Field name="Percent.of.adults.with.a.bachelor.s.degree.or.higher..2015.19" source="R-DATA:" type="Double" />
+            <Field name="FIPS4" size="1073741823" source="R-DATA:" type="V_WString" />
+            <Field name="race" size="1073741823" source="R-DATA:" type="V_WString" />
+            <Field name="fname" size="1073741823" source="R-DATA:" type="V_WString" />
+            <Field name="lname" size="1073741823" source="R-DATA:" type="V_WString" />
+            <Field name="party" size="1073741823" source="R-DATA:" type="V_WString" />
+            <Field name="pab" size="1073741823" source="R-DATA:" type="V_WString" />
+            <Field name="votes" size="1073741823" source="R-DATA:" type="V_WString" />
+            <Field name="incumbent" size="1073741823" source="R-DATA:" type="V_WString" />
+            <Field name="mpc" size="1073741823" source="R-DATA:" type="V_WString" />
+            <Field name="FIPS5" size="1073741823" source="R-DATA:" type="V_WString" />
+            <Field name="FIPS6" size="1073741823" source="R-DATA:" type="V_WString" />
+            <Field name="LAT" source="R-DATA:" type="Double" />
+            <Field name="LON" source="R-DATA:" type="Double" />
+            <Field name="Stabr" size="1073741823" source="R-DATA:" type="V_WString" />
+            <Field name="area_name" size="1073741823" source="R-DATA:" type="V_WString" />
+            <Field name="Attribute" size="1073741823" source="R-DATA:" type="V_WString" />
+            <Field name="Value" size="1073741823" source="R-DATA:" type="V_WString" />
+            <Field name="FIPS7" size="1073741823" source="R-DATA:" type="V_WString" />
+            <Field name="date" size="1073741823" source="R-DATA:" type="V_WString" />
+            <Field name="country_code" size="1073741823" source="R-DATA:" type="V_WString" />
+            <Field name="FIPS8" size="1073741823" source="R-DATA:" type="V_WString" />
+            <Field name="change_in_movement" source="R-DATA:" type="Double" />
+            <Field name="proportion_intouch_users" source="R-DATA:" type="Double" />
+            <Field name="baseline_calc_time" size="1073741823" source="R-DATA:" type="V_WString" />
+            <Field name="baseline_calc_how" size="1073741823" source="R-DATA:" type="V_WString" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxRPluginEngine.dll" EngineDllEntryPoint="AlteryxR" />
+    </Node>
+    <Node ToolID="7">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
+        <Position x="678" y="126" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <TempFile>C:\Users\momaleki\AppData\Local\Temp\Engine_12068_0b6bb43530814fdea2e782ab03de64a1_\Engine_14764_0cd8f62721534c8193842f9fe98d7754_.yxdb</TempFile>
+          <TempFileDataProfiling />
+          <Layout>
+            <ViewMode>Single</ViewMode>
+            <ViewSize value="100" />
+            <View1>
+              <DefaultTab>Profile</DefaultTab>
+              <Hints>
+                <Table />
+              </Hints>
+            </View1>
+            <View2 />
+          </Layout>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxBrowseV2" />
+    </Node>
+  </Nodes>
+  <Connections>
+    <Connection>
+      <Origin ToolID="2" Connection="Output" />
+      <Destination ToolID="3" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="2" Connection="Output" />
+      <Destination ToolID="4" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="4" Connection="Output" />
+      <Destination ToolID="5" Connection="Input" />
+    </Connection>
+    <Connection name="#1">
+      <Origin ToolID="4" Connection="Output" />
+      <Destination ToolID="6" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="6" Connection="Output1" />
+      <Destination ToolID="7" Connection="Input" />
+    </Connection>
+  </Connections>
+  <Properties>
+    <Memory default="True" />
+    <GlobalRecordLimit value="0" />
+    <TempFiles default="True" />
+    <Annotation on="True" includeToolName="False" />
+    <ConvErrorLimit value="10" />
+    <ConvErrorLimit_Stop value="False" />
+    <CancelOnError value="False" />
+    <DisableBrowse value="False" />
+    <EnablePerformanceProfiling value="False" />
+    <DisableAllOutput value="False" />
+    <ShowAllMacroMessages value="False" />
+    <ShowConnectionStatusIsOn value="True" />
+    <ShowConnectionStatusOnlyWhenRunning value="True" />
+    <ZoomLevel value="0" />
+    <LayoutType>Horizontal</LayoutType>
+    <MetaInfo>
+      <NameIsFileName value="True" />
+      <Name>Project Alteryx</Name>
+      <Description />
+      <RootToolName />
+      <ToolVersion />
+      <ToolInDb value="False" />
+      <CategoryName />
+      <SearchTags />
+      <Author />
+      <Company />
+      <Copyright />
+      <DescriptionLink actual="" displayed="" />
+      <Example>
+        <Description />
+        <File />
+      </Example>
+    </MetaInfo>
+    <Events>
+      <Enabled value="True" />
+    </Events>
+  </Properties>
+</AlteryxDocument>
