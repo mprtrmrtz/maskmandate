@@ -2,7 +2,8 @@
 
 ![Mask vs Rurality](https://user-images.githubusercontent.com/84688157/122502819-5cf50300-cfc5-11eb-9000-a8a3794e5919.PNG)
 
-![Correlations](https://user-images.githubusercontent.com/84688157/122504262-edccde00-cfc7-11eb-89b7-8343eb90f7f7.PNG)
+![Correlations Heatmap](https://user-images.githubusercontent.com/84688157/123431748-9ca88580-d597-11eb-931d-de47178d169b.png)
+
 
 
 
