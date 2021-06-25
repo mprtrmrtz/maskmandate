@@ -92,6 +92,12 @@ https://github.com/mfzhao/covid_interdependence
 ### COVID Economics papers 
 https://iris.unibocconi.it/retrieve/handle/11565/4026151/122470/CovidEconomics4.pdf#page=107
 
+
+### COVID-19 Geolocatoin Data
+A county-level study of the effects of state-mandated COVID-19 lockdowns on urban and rural restaurant visits using consumers’ cell phone geo-location dat.
+https://link.springer.com/content/pdf/10.1007/s10389-020-01473-y.pdf
+
+
 ### Walking Behaviour
 Effect of COVID-19 response policies on walking behavior in US cities
 https://www.nature.com/articles/s41467-021-23937-9
