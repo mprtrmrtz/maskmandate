@@ -76,7 +76,7 @@ https://theuscovidatlas.org/data
 
 
 
-# Papers
+# References
 ### New York Times Article and GitHub Repos
 A Detailed Map of Who Is Wearing Masks in the U.S (New York Times)
 
