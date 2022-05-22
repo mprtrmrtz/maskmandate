@@ -1,9 +1,7 @@
 # Mask Mandate Adoption in Relation with Socioeconomic Variables
 
-![Mask vs Rurality](https://user-images.githubusercontent.com/84688157/122502819-5cf50300-cfc5-11eb-9000-a8a3794e5919.PNG)
-
-![Correlations Heatmap](https://user-images.githubusercontent.com/84688157/123431748-9ca88580-d597-11eb-931d-de47178d169b.png)
-
+![image](https://user-images.githubusercontent.com/84688157/169700073-15b0b3f8-638d-4553-a322-1c6fe16c8e08.png)
+![image](https://user-images.githubusercontent.com/84688157/169699659-b3f48822-f0c0-4907-bddf-2a8b600bc409.png)
 
 
 
