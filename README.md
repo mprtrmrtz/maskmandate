@@ -1,7 +1,8 @@
 # Mask Mandate Adoption in Relation with Socioeconomic Variables
 
-![image](https://user-images.githubusercontent.com/84688157/169700073-15b0b3f8-638d-4553-a322-1c6fe16c8e08.png)
 ![image](https://user-images.githubusercontent.com/84688157/169699659-b3f48822-f0c0-4907-bddf-2a8b600bc409.png)
+![image](https://user-images.githubusercontent.com/84688157/169700073-15b0b3f8-638d-4553-a322-1c6fe16c8e08.png)
+
 
 
 
